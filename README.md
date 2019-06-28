@@ -1,4 +1,4 @@
-Simple Spring JPA project to demonstrate unit and integration testing
+# Simple Spring JPA project to demonstrate unit and integration testing
 
 To run this project, you should have PostgreSQL running on localhost port 5432
 
